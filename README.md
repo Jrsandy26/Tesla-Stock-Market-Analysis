@@ -44,8 +44,8 @@ jupyter notebook day_1_.ipynb
 ```
 📷 Sample Visualizations
 
-Correlation Heatmap
+Correlation Heatmap <img width="657" height="512" alt="Image" src="https://github.com/user-attachments/assets/f7894518-061e-43f2-b505-4025e3e469aa" />
 
-Daily Profit/Loss Bar Chart
+Daily Profit/Loss Line Chart <img width="1014" height="547" alt="Image" src="https://github.com/user-attachments/assets/1eaad081-65c6-4ed3-9f39-df92f36287e4" />
 
-Stock Price Trend
+Stock Price Trend <img width="1143" height="813" alt="Image" src="https://github.com/user-attachments/assets/181ad5c6-b770-4fed-8dca-982fc99cd9c9" />
