@@ -2,9 +2,9 @@
 This project analyzes **Tesla stock data** using Python.   It includes data cleaning, visualization, and financial insights such as profits, losses, and stock trends.
 
 ## 📂 Project Structure
-├── day_1_.ipynb # Jupyter Notebook with full analysis.
-├── tesla.csv # Tesla stock dataset (CSV file).
-├── README.md # Project documentation.
+ - ├──**day_1_.ipynb** # Jupyter Notebook with full analysis.
+ - ├──**tesla.csv** # Tesla stock dataset (CSV file).
+ - ├──**README.md** # Project documentation.
 
 ---
 
