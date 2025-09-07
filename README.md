@@ -2,9 +2,9 @@
 This project analyzes **Tesla stock data** using Python.   It includes data cleaning, visualization, and financial insights such as profits, losses, and stock trends.
 
 ## 📂 Project Structure
-├── day_1_.ipynb # Jupyter Notebook with full analysis
-├── tesla.csv # Tesla stock dataset (CSV file)
-├── README.md # Project documentation
+├── day_1_.ipynb # Jupyter Notebook with full analysis.
+├── tesla.csv # Tesla stock dataset (CSV file).
+├── README.md # Project documentation.
 
 ---
 
@@ -31,8 +31,8 @@ This project analyzes **Tesla stock data** using Python.   It includes data clea
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/tesla-stock-analysis.git
-cd tesla-stock-analysis 
+git clone https://github.com/Jrsandy26/Tesla-Stock-Market-Analysis.git
+cd Tesla-Stock-Market-Analysis
 ```
 2. Install dependencies
 ```
